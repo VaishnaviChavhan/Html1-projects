@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 2px solid black;
+    height: 750px;
+    width: 400px;
+    border-radius: 12px;
+    margin-left: 500px;
+    margin-top: 40px;
+    background-color: black;
+}
+
+.header {
+    border: 2px solid black;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: large;
+    font-weight: 400;
+}
+
+#check {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.profile {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.information {
+    color: white;
+    margin-left: 30px;
+}
+
+#heart {
+    color: red;
+}
+
+.message {
+    padding: 20px;
+    margin-left: 10px;
+}
+
+button {
+    width: 100px;
+    border: 2px solid grey;
+    padding-bottom: 10px;
+    background-color: grey;
+    color: white;
+    border-radius: 5px;
+}
+
+#user {
+    width: 30px;
+}
+
+#col{
+    background-color: blue;
+    border-color: blue;
+}
+
+.play {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.images {
+    display: flex;
+}
+img {
+    height: 150px;
+    width: 200px;
+}
+
+.images1 {
+    display: flex;
+}
